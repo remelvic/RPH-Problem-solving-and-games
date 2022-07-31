@@ -1,0 +1,8 @@
+- hw1 -> Not interesting
+- hw2 -> Working with vectors
+- hw3_player -> Primitive player logic in a rock-paper-scissors like game
+- hw3_Tournament -> The player tries to predict the next best move.
+- hw7_reversi_logic -> The player plays completely random   
+- hw8_reversi_Tournament -> The player takes the most advantageous positions on the board and tries to turn over the opponent's stones as much as possible
+- hw11_spam_filter -> Not interesting 
+- hw12_spam_filter2 -> A full-fledged spam filter that works on the principle of finding the most suspicious words in a mail
